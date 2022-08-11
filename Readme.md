@@ -10,3 +10,5 @@ sorteio.py
 valida.py
 
 realizado o curso no alura de python
+versão 0.1
+realizado os ajuste do Readme.md
